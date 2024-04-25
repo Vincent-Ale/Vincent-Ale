@@ -1,7 +1,7 @@
 <img src="https://media.licdn.com/dms/image/D4D16AQFWatSddk9VyQ/profile-displaybackgroundimage-shrink_350_1400/0/1714063064938?e=1719446400&v=beta&t=-Yt424xgUe3XTALeI05h4_p33YK94nu4pjZ69GzGLXc"/>
 <h1>Développeur Web</h1>
 
-<p>Actuellement en formation, je suis toujours à la recherche de nouvelles connaissances et opportunités pour améliorer mes compétences.</p>
+<p>Actuellement en formation, toujours à la recherche de nouvelles connaissances et opportunités pour améliorer mes compétences.</p>
 <p>Passionné par les technologies modernes et les défis techniques.</p>
 
 
