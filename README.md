@@ -8,7 +8,7 @@
 
 <h2>N'hésitez pas à me contacter :</h2>
 <a href="mailto:vincent.aleman@laposte.net" class="button">
-<img src="https://img.shields.io/badge/MAIL-F19500" />
+<img src="https://img.shields.io/badge/MAIL?style=for-the-badge-F19500" />
 </a>
 
 <a href="https://www.linkedin.com/in/vincent-aleman-805574306/" class="button" target="_blank">
