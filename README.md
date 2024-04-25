@@ -4,6 +4,8 @@
 <p>Actuellement en formation, je suis toujours à la recherche de nouvelles connaissances et opportunités pour améliorer mes compétences.</p>
 <p>Passionné par les technologies modernes et les défis techniques.</p>
 
+
+
 <h2>N'hésitez pas à me contacter :</h2>
 <a href="mailto:vincent.aleman@laposte.net" class="button">
 <img src="https://img.shields.io/badge/MAIL-F19500" />
