@@ -5,6 +5,7 @@
 <p>Passionné par les technologies modernes et les défis techniques.</p>
 
 <h2>Technologies maîtrisées:</h2>
+
 <div>
   
 ![html2](https://github.com/Vincent-Ale/Vincent-Ale/assets/159807430/bb99097e-6f7f-415f-bbd3-38d09d614453)
@@ -16,11 +17,8 @@
 ![tailwind2](https://github.com/Vincent-Ale/Vincent-Ale/assets/159807430/7fa14956-0052-46f0-aa44-78aca10351c7)
 ![laragon2](https://github.com/Vincent-Ale/Vincent-Ale/assets/159807430/35412233-2913-482c-8bee-c0d5bcd3647e)
 ![alpinejs2](https://github.com/Vincent-Ale/Vincent-Ale/assets/159807430/99cab321-82fb-4ce4-8baa-bae5ffe8fa54)
-
 ![figma2](https://github.com/Vincent-Ale/Vincent-Ale/assets/159807430/7bf0a917-b700-402f-bafc-540e863dc304)
 ![gimp2](https://github.com/Vincent-Ale/Vincent-Ale/assets/159807430/c477fbbf-3dbd-41d5-865f-6d13693bdce7)
-
-
 
 </div>
 
