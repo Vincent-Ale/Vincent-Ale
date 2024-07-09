@@ -1,4 +1,5 @@
-<img src="https://media.licdn.com/dms/image/D4D16AQFWatSddk9VyQ/profile-displaybackgroundimage-shrink_350_1400/0/1714063064938?e=1719446400&v=beta&t=-Yt424xgUe3XTALeI05h4_p33YK94nu4pjZ69GzGLXc"/>
+![image](https://github.com/Vincent-Ale/Vincent-Ale/assets/159807430/716de99d-58e2-413b-830b-ac228c9a34fd)
+
 <h1>Développeur Web</h1>
 
 <p>Actuellement en formation, toujours à la recherche de nouvelles connaissances et opportunités pour améliorer mes compétences.</p>
